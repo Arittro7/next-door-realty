@@ -23,12 +23,12 @@ Installation
 To get started with the project locally, follow these steps:
 
 Clone the repository:
+  
   git clone https://github.com/yourusername/next-door-realty.git
   cd next-door-realty
 
 Install dependencies:
+  
   npm install
 
-Start the development server:
-  npm start
 
