@@ -1,7 +1,7 @@
 OverView:
 welcome to the Next Door Realty project, In this project I try to create a Residential Real-Estate website which showcase properties for sale and rent.
 
-Live Site Link: 
+Live Site Link: https://next-door-realty.netlify.app/
 
 Features:
 1. Authentication
